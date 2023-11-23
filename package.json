@@ -1,5 +1,5 @@
 {
-  "name": "react-native-bouncy-checkbox",
+  "name": "@hoangha2001/react-native-bouncy-checkbox",
   "version": "3.0.7",
   "description": "Fully customizable animated bouncy checkbox for React Native",
   "keywords": [
@@ -38,7 +38,7 @@
     "@types/react-native": "^0.72.0",
     "eslint": "^8.21.0",
     "eslint-config-airbnb": "^19.0.4",
-    "husky": "^8.0.2",
+    "husky": "^8.0.0",
     "lint-staged": "^15.0.1",
     "npm-post-install": "0.0.2",
     "prettier": "^3.0.0",

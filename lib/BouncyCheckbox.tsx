@@ -183,8 +183,8 @@ class BouncyCheckbox extends React.Component<IBouncyCheckboxProps, IState> {
         }}
         onPressOut={() => {
           this.bounceEffect(bounceEffectOut, bounceVelocityOut, bouncinessOut);
+          this.onPress()
         }}
-        onPress={this.onPress}
       >
         {this.renderCheckIcon()}
         {this.renderCheckboxText()}
